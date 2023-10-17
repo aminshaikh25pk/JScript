@@ -1,2 +1,2 @@
 # JScript
-JScript Learning
+JScript Learning Series
