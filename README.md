@@ -1,2 +1,2 @@
 # JScript
-JScript Learning for NodeJS
+JScript Learning
